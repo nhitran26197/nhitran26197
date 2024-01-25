@@ -1,6 +1,3 @@
-- 👋 Hi, I’m Nhi. I'm a junior student major in Computer Science.
-- 🌱 I'm looking for an internship opportunity Summer 2023.
-- 👀 I’m interested in Traveling, Rock CLimbing.
 
 
 <!---
